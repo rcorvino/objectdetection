@@ -1,0 +1,26 @@
+<annotation>
+	<folder>wake-up-light</folder>
+	<filename>image4.jpg</filename>
+	<path>/Users/rcorvino/Shared/Projects/Python/objectDetection/Mask_RCNN/wake-up-light/images/image4.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4032</width>
+		<height>3024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>wake-up-light</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1552</xmin>
+			<ymin>656</ymin>
+			<xmax>2912</xmax>
+			<ymax>2076</ymax>
+		</bndbox>
+	</object>
+</annotation>

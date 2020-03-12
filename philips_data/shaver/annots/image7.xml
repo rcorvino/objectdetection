@@ -1,0 +1,26 @@
+<annotation>
+	<folder>shaver</folder>
+	<filename>image4.jpg</filename>
+	<path>/Users/rcorvino/Shared/Projects/Python/objectDetection/Mask_RCNN/shaver/images/image4.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4032</width>
+		<height>3024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>shaver</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>996</xmin>
+			<ymin>960</ymin>
+			<xmax>2864</xmax>
+			<ymax>1708</ymax>
+		</bndbox>
+	</object>
+</annotation>
